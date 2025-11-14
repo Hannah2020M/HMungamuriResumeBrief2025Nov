@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
    <head>
@@ -123,13 +122,13 @@ opposite Jute Mill, Rajarajeswaripuram,<br>
 Pattabhipuram, Guntur, <br>
 Andhra Pradesh 522006, India <br>
 
-<b><em>Supervisor: </em> </b> Dr.AVNaga Raja GUpta garu <br>
+<b><em>Supervisor: </em> </b> Dr.A.V.Naga Raja Gupta garu <br>
 Ph : 011 91 863 223 0852 <br>
 <br>
 			</p>
  <a style="font-size:24px;"  href="#contents" > Back to top of the page.</a> <br>
 
-</p>
+
  <!--  ADD IMAGE LALTER 4:03 PM 9/24/2022
              <img style="margin-left: 60px;" src="https://ucarecdn.com/e562484a-e16a-4934-ad9e-1723ed3e83c8/Preschool2022lab.jpg" alt="NEMO the fish who was a Slightly Handicapped Missionary WithChristianValues">
      https://ucarecdn.com/e562484a-e16a-4934-ad9e-1723ed3e83c8/Preschool2022lab.jpg
@@ -381,10 +380,6 @@ just as ...  <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <script src="script.js"></script>
    </body>
 </html>
-
-
-
-
 
 ===+++ 2025 nov 13 0917pm +++===
 <!DOCTYPE html>
